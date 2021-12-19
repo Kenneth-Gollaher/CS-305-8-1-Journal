@@ -31,3 +31,4 @@ The resources that I used the most was through our class resource page. I found 
 
 # Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
+For this particular assignment, I would like to showcase the implementation of increased security protocols and the research and testing completed to detect and reduce any vulnerabilities within the software. Security is a top priority and this assignment represents the hard work implemented to ensure the security requirements are met and my ability to stay current on security measures. 
