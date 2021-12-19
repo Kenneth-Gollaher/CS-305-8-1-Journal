@@ -6,7 +6,7 @@ As a proud member of an Engineering company, Global Rain, we are tasked with mod
 
 * What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
-
+The area that I found particularly interesting and did well is identifying the vulnerabilites that were false positives. Security should be a top priority for any developing team and QA/testing teams. Testing early and continually throughout the process will help reduce any potential defects or vulnerable code. 
 
 * What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
