@@ -1,9 +1,11 @@
 # CS-305-8-1-Journal
 CS-305-Software Security
 * Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-- 
+
+As a proud member of an Engineering company, Global Rain, we are tasked with modernizing a clients software operations and implement the most current and effective software security. Our client, Artemis Financial, is a financial cconsulting company. They are known for developing financial plans for savings, retirements, investments, and insurance. These plans are individualized for each of their clients specific needs. Our clients needs our expertise to implement the highest proection and security from any external threats.
 
 * What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+
 
 
 * What about the process of working through the vulnerability assessment did you find challenging or helpful?
