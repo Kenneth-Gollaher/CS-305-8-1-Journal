@@ -14,7 +14,9 @@ The process that I found the most challenging in the vulnerability assessment wa
 
 # How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 
+A way that I increased the layers of securiity is through the dependency checks to see which vulnerability you currently have and refactor the code and run another dependency check. Another way is to continually read up on and monitor any information regarding security and staying current on what new vulnerabilities are preset worldwide. Staying current is an important technique. One of the tools that I recently found that might be helpful in the future is the Hash Online tool to check the functionality. The link is below.
 
+- https://emn178.github.io/online-tools/sha256.html (Link to Hash Online Tool).
 
 # How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
@@ -27,8 +29,5 @@ The resources that I used the most was through our class resource page. I found 
 - https://jeremylong.github.io/DependencyCheck/dependency-check-maven/index.html (link to OWASP Dependency-Check-Maven website).
 - https://www.sslshopper.com/article-how-to-create-a-self-signed-certificate-using-java-keytool.html (link to SSL Certificates).
 
-One of the tools that I recently found that might be helpful in the future is the Hash Online tool to check the functionality. The link is below.
-
-- https://emn178.github.io/online-tools/sha256.html (Link to Hash Online Tool).
-
 # Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+
